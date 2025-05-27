@@ -20,7 +20,7 @@ Clair Organizer is a standalone desktop application that automatically sorts the
 ## Installation
 
 ### Option 1: Download Installer
-1. Download **ClairInstaller.exe** from the release page:  
+1. Download **ClairInstaller.exe** from the release page: https://github.com/nicolasgioanni/Clair/releases/tag/v1.0.0
 2. Run the installer and follow the prompts.  
 3. Launch **Clair** from the Start menu.  
 
