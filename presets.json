@@ -1,0 +1,9 @@
+{
+  "Default": {
+    "Documents": [".pdf", ".docx", ".doc", ".txt", ".xlsx", ".pptx"],
+    "Images":    [".jpg", ".jpeg", ".png", ".gif", ".bmp", ".tiff"],
+    "Videos":    [".mp4", ".mov", ".avi", ".mkv", ".flv"],
+    "Music":     [".mp3", ".wav", ".aac", ".flac"],
+    "Archives":  [".zip", ".tar", ".gz", ".rar", ".7z"]
+  }
+}
