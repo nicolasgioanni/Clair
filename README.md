@@ -3,6 +3,8 @@
 ## Description
 Clair Organizer is a standalone desktop application that automatically sorts the contents of any folder into subfolders based on file types. Select a folder, click **Organize**, and watch as Documents, Images, Videos, Music, Archives and other files are moved into their own folders.
 
+---
+
 ## Features
 1. One-click organization of any folder’s files.  
 2. Customizable categories and extensions via an intuitive graphical interface.  
@@ -10,12 +12,16 @@ Clair Organizer is a standalone desktop application that automatically sorts the
 4. Optional recursive scan of subfolders with the ability to remove empty directories.  
 5. Dark-mode interface built on Qt (PySide6) for a modern look and feel.  
 
+---
+
 ## Technologies Used
 - **Python 3.11**: Core language for file system operations and application logic.
 - **OS module**: Used to interact with the operating system for file management.  
 - **PySide6 (Qt for Python)**: Cross-platform GUI framework.  
 - **PyInstaller**: Packages the Python code and JSON data into a single executable.  
 - **Inno Setup**: Builds a Windows installer that bundles the executable and configuration files.  
+
+---
 
 ## Installation
 
@@ -52,6 +58,8 @@ Clair Organizer is a standalone desktop application that automatically sorts the
 7. Run the application:
    ```bash
    python clair.py 
+
+---
    
 ## Usage
 1. Click **Browse** and select the folder you want to organize.  
@@ -61,11 +69,15 @@ Clair Organizer is a standalone desktop application that automatically sorts the
 5. Use the **Manage Categories** panel to add, remove or rename categories and toggle extensions.
 6. Click **Add Preset**, **Delete Preset**, or **Rename Preset** to add, delete, or rename custom preset respectively.
 
+---
+
 ## How It Works
 1. **Scan**: The application lists all files in the chosen folder (and subfolders if enabled).  
 2. **Map**: Each file’s extension is matched against your defined categories.  
 3. **Move**: Files are moved into subfolders named after their category; missing folders are created automatically.  
 4. **Clean Up**: If enabled, any subdirectories left empty after moving files are deleted.  
+
+---
 
 ## Customization
 - Open the **Manage Categories** panel to add, remove or rename folders and toggle file extensions with a single click (your changes take effect immediately).  
