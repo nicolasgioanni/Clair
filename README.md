@@ -2,7 +2,7 @@
 
 ## Description
 Clair Organizer is a standalone desktop application that automatically sorts the contents of any folder into subfolders based on file types. Select a folder, click **Organize**, and watch as Documents, Images, Videos, Music, Archives and other files are moved into their own folders.
-
+-
 ## Features
 1. One-click organization of any folder’s files.  
 2. Customizable categories and extensions via an intuitive graphical interface.  
