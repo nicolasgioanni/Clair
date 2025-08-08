@@ -10,8 +10,6 @@ Clair Organizer is a standalone desktop application that automatically sorts the
 4. Optional recursive scan of subfolders with the ability to remove empty directories.  
 5. Dark-mode interface built on Qt (PySide6) for a modern look and feel.  
 
--
-
 ## Technologies Used
 - **Python 3.11**: Core language for file system operations and application logic.
 - **OS module**: Used to interact with the operating system for file management.  
